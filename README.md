@@ -2,7 +2,7 @@
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer Student</h3> <br>
 
- Contact:  ![Instagram](https://www.instagram.com/ig__ronith__/)
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About 
 -  **Learning :** Full-Stack :zap: | Data-Science 📈 
@@ -10,6 +10,7 @@
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee 😄: But, I prefer tea ♥️
 -  **Pronouns :** He/Him/His :innocent:
+-  **Contact :**  ronith.xa@gmail.com 📫
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
